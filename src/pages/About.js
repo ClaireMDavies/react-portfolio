@@ -17,7 +17,7 @@ function About() {
                                 <div className="row">
                               
                                     <div className="col-sm-12 col-md-4">
-                                    <img src={headshot} alt="HeadShot" class="img-fluid"  alt="smiling Claire"
+                                    <img src={headshot} alt="HeadShot" class="img-fluid"  
                                             id="headshot"/>
                                     </div>
                                     
