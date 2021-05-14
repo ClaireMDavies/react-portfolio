@@ -1,10 +1,11 @@
 import React from "react";
-import Background from "../components/Background";
+import headshot from "../img/headshot2.jpg";
+
 function About() {
     return (
 
         <div className="container">
-            <Background/>
+            
             <div className="row">
                 <div className="col-sm">
                     <div className="jumbotron">
@@ -14,8 +15,10 @@ function About() {
                         <div className="card">
                             <div className="card-body">
                                 <div className="row">
+                              
                                     <div className="col-sm-12 col-md-4">
-                                        
+                                    <img src={headshot} alt="HeadShot" class="img-fluid"  alt="smiling Claire"
+                                            id="headshot"/>
                                     </div>
                                     
                                     <div className="col-sm-12 col-md-8">
