@@ -1,6 +1,5 @@
 import React from "react";
 import headshot from "../img/headshot2.jpg";
-
 import pdf from "../img/pdf-icon.png";
 import pdfDoc from "../img/Claire-Davies-Resume.pdf";
 
