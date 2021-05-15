@@ -1,6 +1,9 @@
 import React from "react";
 import headshot from "../img/headshot2.jpg";
 
+import pdf from "../img/pdf-icon.png";
+import pdfDoc from "../img/Claire-Davies-Resume.pdf";
+
 function About() {
     return (
 
@@ -46,7 +49,15 @@ function About() {
                                             accessing some sewing courses. Along
                                             with environmental issues and campaigning, and up until recently I was
                                             co-ordinator for our local Green Party</p>
-                                        
+                                            <div className="row gx-2" id="pdf-download">
+                                            <div className="col-md-12">
+                                                <a href={pdfDoc} className="btn btn-success">
+                                                    Download resum&eacute; <img src={pdf}
+                                                        alt="pdf icon"/></a>
+                                            </div>
+                                        </div>
+                                            
+                                            
                                     </div>
                                 </div>
                             </div>
