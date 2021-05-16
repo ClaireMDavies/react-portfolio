@@ -19,7 +19,7 @@ Taking my portfolio that I created solely with HTML and CSS, and recreating it a
 
 ## Deployed Portfolio 
 
-The live site is found at [GithubPages](https://clairemdavies.github.io/portfolio/) 
+The live site is found at [GithubPages](https://clairemdavies.github.io/react-portfolio/) 
 
 ## Screenshots
 
