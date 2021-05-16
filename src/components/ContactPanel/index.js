@@ -4,9 +4,9 @@ import "./style.css";
 function ContactPanel(props) {
     return (
         
-            <div className="col-sm-6 gy-3" style={{ paddingLeft: '30%' }}>
-                <div className="card" style={{ paddingBottom: 10, width: 100 }}>
-                    <div className="card-body" style="text-align: center; padding-bottom: 10px;">
+            <div className="col-sm-6 gy-3">
+                <div className="card">
+                    <div className="card-body">
                         <h5 className="card-title">{props.title}</h5>
                         <p className="card-text">{props.message}</p>
                         <a href={props.link} className="btn btn-success contact-buttons"
@@ -17,8 +17,6 @@ function ContactPanel(props) {
                     </div>
                 </div>
             </div>
-        
-
     );
 }
 

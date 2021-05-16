@@ -24,13 +24,13 @@ The live site is found at [GithubPages](https://clairemdavies.github.io/react-po
 ## Screenshots
 
 Screenshots of the pages follow below: 
-![aboutMe](../react-portfolio/src/img/react-portfolio-about-me.png)
+![aboutMe](src/img/react-portfolio-about-me.png)
 
-![contact](../react-portfolio/src/img/react-portfolio-contact.png) 
+![contact](src/img/react-portfolio-contact.png) 
 
-![portfolio](../react-portfolio/src/img/react-portfolio.png) 
+![portfolio](src/img/react-portfolio.png) 
 
-![responsive](../react-portfolio/src/img/react-portfolio-responsive.png)
+![responsive](src/img/react-portfolio-responsive.png)
 
   
 ## License 
