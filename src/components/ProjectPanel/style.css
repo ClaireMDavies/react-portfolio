@@ -1,0 +1,17 @@
+.card {
+    margin: 1rem; 
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    padding: 10px;
+ }
+
+  .card-link {
+      color:rgb(92, 161, 92);
+  }
+
+  .card-link:hover {
+      color:green;
+  }
+
+  
+  
+  

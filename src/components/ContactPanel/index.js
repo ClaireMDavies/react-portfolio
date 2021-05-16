@@ -3,12 +3,12 @@ import "./style.css";
 
 function ContactPanel(props) {
     return (
-        <div class="row">
-            <div class="col-sm-6 gy-3">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">{props.title}</h5>
-                        <p class="card-text">{props.message}</p>
+        
+            <div className="col-sm-6 position gy-3">
+                <div className="card">
+                    <div className="card-body">
+                        <h5 className="card-title">{props.title}</h5>
+                        <p className="card-text">{props.message}</p>
                         <a href={props.link} class="btn btn-success contact-buttons"
                             id="phone-button" title={props.link}><img src={props.image}
                                 alt={props.alt} />
@@ -17,7 +17,7 @@ function ContactPanel(props) {
                     </div>
                 </div>
             </div>
-        </div>
+        
 
     );
 }
