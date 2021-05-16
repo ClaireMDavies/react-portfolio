@@ -7,22 +7,23 @@ function About() {
     return (
 
         <div className="container">
-            
+
             <div className="row">
                 <div className="col-sm">
                     <div className="jumbotron">
                         <h1 className="display-4">About Me</h1>
-                       
+
                         <hr className="my-4"></hr>
+
                         <div className="card">
                             <div className="card-body">
                                 <div className="row">
-                              
+
                                     <div className="col-sm-12 col-md-4">
-                                    <img src={headshot} alt="HeadShot" class="img-fluid"  
-                                            id="headshot"/>
+                                        <img src={headshot} alt="HeadShot" class="img-fluid"
+                                            id="headshot" />
                                     </div>
-                                    
+
                                     <div className="col-sm-12 col-md-8">
                                         <p> I am a mother of 4, who has spent most of the last 20 years as a stay at
                                             home mum. Having trained as a
@@ -48,15 +49,15 @@ function About() {
                                             accessing some sewing courses. Along
                                             with environmental issues and campaigning, and up until recently I was
                                             co-ordinator for our local Green Party</p>
-                                            <div className="row gx-2" id="pdf-download">
+                                        <div className="row gx-2" id="pdf-download">
                                             <div className="col-md-12">
                                                 <a href={pdfDoc} className="btn btn-success">
                                                     Download resum&eacute; <img src={pdf}
-                                                        alt="pdf icon"/></a>
+                                                        alt="pdf icon" /></a>
                                             </div>
                                         </div>
-                                            
-                                            
+
+
                                     </div>
                                 </div>
                             </div>
@@ -65,6 +66,7 @@ function About() {
                 </div>
             </div>
         </div>
+
     );
 }
 
