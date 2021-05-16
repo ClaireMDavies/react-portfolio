@@ -4,8 +4,8 @@ import "./style.css";
 function ContactPanel(props) {
     return (
         
-            <div className="col-sm-6 gy-3" style="padding-left: 30%">
-                <div className="card" style="padding-bottom: 10px; width: 100px;">
+            <div className="col-sm-6 gy-3" style={{ paddingLeft: '30%' }}>
+                <div className="card" style={{ paddingBottom: 10, width: 100 }}>
                     <div className="card-body" style="text-align: center; padding-bottom: 10px;">
                         <h5 className="card-title">{props.title}</h5>
                         <p className="card-text">{props.message}</p>
