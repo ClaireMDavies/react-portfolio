@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.452d464f.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.465211ec.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.465211ec.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.4cfd30b6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.efe9e89c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.efe9e89c.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.fed61080.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fed61080.js.map",
     "static/css/2.61b4cb56.chunk.css": "/react-portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.af8a16fc.chunk.js": "/react-portfolio/static/js/2.af8a16fc.chunk.js",
-    "static/js/2.af8a16fc.chunk.js.map": "/react-portfolio/static/js/2.af8a16fc.chunk.js.map",
+    "static/js/2.e2dd511e.chunk.js": "/react-portfolio/static/js/2.e2dd511e.chunk.js",
+    "static/js/2.e2dd511e.chunk.js.map": "/react-portfolio/static/js/2.e2dd511e.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/react-portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.452d464f.chunk.css.map": "/react-portfolio/static/css/main.452d464f.chunk.css.map",
-    "static/js/2.af8a16fc.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.af8a16fc.chunk.js.LICENSE.txt",
+    "static/css/main.4cfd30b6.chunk.css.map": "/react-portfolio/static/css/main.4cfd30b6.chunk.css.map",
+    "static/js/2.e2dd511e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e2dd511e.chunk.js.LICENSE.txt",
     "static/media/Claire-Davies-Resume.4bd5284e.pdf": "/react-portfolio/static/media/Claire-Davies-Resume.4bd5284e.pdf",
     "static/media/code-crowd.18230bf0.png": "/react-portfolio/static/media/code-crowd.18230bf0.png",
     "static/media/eatinNdrinkin.b86c81eb.png": "/react-portfolio/static/media/eatinNdrinkin.b86c81eb.png",
+    "static/media/google-books-save.25fbedfa.png": "/react-portfolio/static/media/google-books-save.25fbedfa.png",
     "static/media/style.css": "/react-portfolio/static/media/green-bokeh.1ebb6b17.jpg",
     "static/media/headshot2.838b833d.jpg": "/react-portfolio/static/media/headshot2.838b833d.jpg",
     "static/media/screenshot-scheduler.f71e07f0.png": "/react-portfolio/static/media/screenshot-scheduler.f71e07f0.png",
     "static/media/tech-blog.b96b7c2c.png": "/react-portfolio/static/media/tech-blog.b96b7c2c.png",
-    "static/media/weather-dashboard.8a8d3328.png": "/react-portfolio/static/media/weather-dashboard.8a8d3328.png",
     "static/media/workout-tracker.363e81dc.png": "/react-portfolio/static/media/workout-tracker.363e81dc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fed61080.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.af8a16fc.chunk.js",
-    "static/css/main.452d464f.chunk.css",
-    "static/js/main.465211ec.chunk.js"
+    "static/js/2.e2dd511e.chunk.js",
+    "static/css/main.4cfd30b6.chunk.css",
+    "static/js/main.efe9e89c.chunk.js"
   ]
 }
